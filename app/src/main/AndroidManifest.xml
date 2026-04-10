@@ -8,7 +8,6 @@
 
     <application
         android:label="BB Coach"
-        android:icon="@android:drawable/sym_def_app_icon
         android:theme="@style/Theme.AppCompat.Light.NoActionBar"
         android:allowBackup="false">
 
