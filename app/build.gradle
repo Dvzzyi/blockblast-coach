@@ -3,6 +3,7 @@ plugins {
     id 'kotlin-android'
 }
 android {
+    namespace 'com.blockblast.coach'
     compileSdk 34
     defaultConfig {
         applicationId "com.blockblast.coach"
